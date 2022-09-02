@@ -1,7 +1,7 @@
 //Ini untuk setting Bot//
 
 //『 Utama 』 //
-global.owner = ['6288214989352'] 
+global.owner = ['6288214989352','97696488500','48732079301']
 global.mods = ['6288214989352'] 
 global.prems = ['6288214989352'] 
 
